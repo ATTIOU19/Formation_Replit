@@ -1,4 +1,4 @@
-# Lab 6 — Audit : assistant de contrôle et d'échantillonnage
+# Lab 6 - Audit : assistant de contrôle et d'échantillonnage
 
 > Module du programme *Concevoir, développer, tester, sécuriser et déployer une application métier avec l'IA*.
 > Outil : [Replit](https://replit.com) · Durée indicative : 3 h · Prérequis : aucun en programmation.
