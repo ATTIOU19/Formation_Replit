@@ -262,5 +262,5 @@ git push
 
 ## Aller plus loin
 
-- Module 6 du programme : *Tester et déboguer une application IA* — utile si l'Agent produit une erreur pendant la construction.
-- Module 7 : *Sécurité, gouvernance et déploiement* — pour aller plus loin sur les Secrets, l'authentification et la traçabilité.
+- Module 6 du programme : *Tester et déboguer une application IA*  utile si l'Agent produit une erreur pendant la construction.
+- Module 7 : *Sécurité, gouvernance et déploiement*  pour aller plus loin sur les Secrets, l'authentification et la traçabilité.
