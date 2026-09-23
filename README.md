@@ -6,9 +6,9 @@
 
 ## Présentation
 
-Cette formation apprend à maîtriser Replit de bout en bout : son espace de travail, son Agent IA, ses outils d'exécution et de débogage, ses Secrets, sa Database et ses Deployments. Elle ne se limite pas à « générer une application avec l'IA » : elle apprend à **naviguer, construire, tester, sécuriser et déployer** dans Replit, pour que ce qui est produit soit fiable et défendable, pas seulement impressionnant en démonstration.
+Cette formation apprend à maîtriser Replit de bout en bout : son espace de travail, son Agent IA, ses outils d'exécution et de débogage, ses Secrets, sa Database et ses Deployments. Elle ne se limite pas à « générer une application avec l'IA » : elle apprend à **naviguer, construire, tester, sécuriser et déployer** dans Replit pour que ce qui est produit soit fiable et défendable pas seulement impressionnant en démonstration.
 
-Le tronc commun (7 modules, 18 heures) est entièrement consacré à l'outil Replit lui-même. Une fois cette base acquise, des **guides métier pas à pas** permettent de mettre cette méthode en pratique sur des cas réels — recrutement, comptabilité, service client, supply chain, gestion de projet, audit chacun construit intégralement dans Replit.
+Le tronc commun (7 modules, 18 heures) est entièrement consacré à l'outil Replit lui-même. Une fois cette base acquise, des **guides métier pas à pas** permettent de mettre cette méthode en pratique sur des cas réels comme le recrutement, la comptabilité, le service client, le supply chain, la gestion de projet et l'audit dont chacun est construit intégralement dans Replit.
 
 ## Public et prérequis
 
