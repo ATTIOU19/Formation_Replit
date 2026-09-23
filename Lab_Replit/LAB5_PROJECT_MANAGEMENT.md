@@ -1,4 +1,4 @@
-# Lab 5 — Project Management : suivi d'avancement et détection de dérives
+# Lab 5 - Project Management : suivi d'avancement et détection de dérives
 
 > Module du programme *Concevoir, développer, tester, sécuriser et déployer une application métier avec l'IA*.
 > Outil : [Replit](https://replit.com) · Durée indicative : 3 h · Prérequis : aucun en programmation.
