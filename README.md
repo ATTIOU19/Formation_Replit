@@ -46,7 +46,7 @@ Le tronc commun (7 modules, 18 heures) est entièrement consacré à l'outil Rep
 
 ## Les guides métier, pour mettre Replit en pratique
 
-Une fois le tronc commun terminé, chaque guide applique la même méthode en sept étapes — comprendre, construire, tester, corriger, sécuriser, déployer, documenter — à un cas métier réel, entièrement construit dans Replit avec l'Agent. Chacun se termine par le même livrable : application déployée, cahier des charges, architecture, jeux de tests, limites identifiées.
+Une fois le tronc commun terminé, chaque guide applique la même méthode en sept étapes : comprendre, construire, tester, corriger, sécuriser, déployer, documenter  à un cas métier réel, entièrement construit dans Replit avec l'Agent. Chacun se termine par le même livrable : application déployée, cahier des charges, architecture, jeux de tests, limites identifiées.
 
 | Guide | Métier | Ce qu'on y construit |
 |---|---|---|
