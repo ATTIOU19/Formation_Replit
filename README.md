@@ -51,7 +51,7 @@ Une fois le tronc commun terminé, chaque guide applique la même méthode en se
 | Guide | Métier | Ce qu'on y construit |
 |---|---|---|
 | **RH** | Recrutement | Une application qui note les CV avec une grille explicite critère par critère, et une décision humaine finale. |
-| **Finance** | Comptabilité | Un pipeline qui nettoie, classe et vérifie des transactions, jusqu'à un rapport de clôture. |
+| **Finance** | Comptabilité | 	Un assistant qui génère des rapports d'activité et des devis clients à partir de données saisies, avec relecture avant envoie. |
 | **Service client** | Support client | Un chatbot qui recherche avant de répondre (RAG), avec validation humaine avant tout envoi (human-in-the-loop). |
 | **Supply Chain** | Logistique | Un suivi de stock qui calcule un seuil de réapprovisionnement par produit, alerte avant la rupture et suggère une quantité de commande justifiée. |
 | **Project Management** | Gestion de projet | Un suivi de planning qui détecte les tâches en retard, propage l'impact sur les tâches dépendantes, et prépare un compte rendu à valider avant diffusion. |
