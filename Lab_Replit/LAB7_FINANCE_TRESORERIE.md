@@ -195,7 +195,7 @@ Cette étape est une discussion, pas une construction. Prenez des notes : elles 
 - **Fiabilité de la projection** : une projection sur 12 semaines repose sur des hypothèses (paiement à l'échéance, historique représentatif). Quelles limites avez-vous observées sur vos cas de test ?
 - **Scénario prudent contre scénario optimiste** : pourquoi est-il utile de présenter les deux plutôt qu'un seul chiffre ?
 - **Données sensibles** : les informations de trésorerie et les retards de paiement des clients sont des données financières sensibles. Quelles précautions prendre sur leur accès et leur conservation ?
-- **Rôle de l'IA** : reformulez en une phrase le principe du lab — *l'IA projette et alerte, le contrôleur de gestion décide des actions à engager*.
+- **Rôle de l'IA** : reformulez en une phrase le principe du lab - *l'IA projette et alerte, le contrôleur de gestion décide des actions à engager*.
 
 **Résultat attendu :** des notes de discussion sur la fiabilité de la projection et les limites de la prévision.
 
