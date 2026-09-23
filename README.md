@@ -1,6 +1,6 @@
 # Concevoir, développer, tester, sécuriser et déployer une application métier avec Replit
 
-**Une formation pratique pour maîtriser [Replit](https://replit.com) et son Agent IA, de la première page web au déploiement — puis appliquer cette méthode à des cas métier réels : RH, finance, service client, supply chain, gestion de projet, audit.**
+**Une formation pratique pour maîtriser [Replit](https://replit.com) et son Agent IA, de la première page web au déploiement puis appliquer cette méthode à des cas métier réels : RH, finance, service client, supply chain, gestion de projet, audit.**
 
 ---
 
