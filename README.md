@@ -65,13 +65,13 @@ Les guides RH, Finance et Service client forment le socle métier de la formatio
 | Fichier | Contenu |
 |---|---|
 | `Presentation.html` | Support de présentation du tronc commun Replit (7 modules), à ouvrir dans un navigateur. |
-| `LAB1_RH.md` | Guide pas à pas — RH : système d'aide au tri des CV. |
-| `LAB2_FINANCE.md` | Guide pas à pas — Finance : assistant comptable. |
-| `LAB3_SERVICE_CLIENT.md` | Guide pas à pas — Service client : CRM, chatbot, RAG. |
-| `LAB4_SUPPLY_CHAIN.md` | Guide pas à pas — Supply Chain : suivi et alerte de rupture de stock. |
-| `LAB5_PROJECT_MANAGEMENT.md` | Guide pas à pas — Project Management : suivi d'avancement et détection de dérives. |
-| `LAB6_AUDIT.md` | Guide pas à pas — Audit : assistant de contrôle et d'échantillonnage. |
-| `LAB7_FINANCE_TRESORERIE.md` | Guide pas à pas — Finance avancé : assistant de prévision de trésorerie. |
+| `LAB1_RH.md` | Guide pas à pas - RH : système d'aide au tri des CV. |
+| `LAB2_FINANCE.md` | Guide pas à pas - Finance : assistant comptable. |
+| `LAB3_SERVICE_CLIENT.md` | Guide pas à pas - Service client : CRM, chatbot, RAG. |
+| `LAB4_SUPPLY_CHAIN.md` | Guide pas à pas - Supply Chain : suivi et alerte de rupture de stock. |
+| `LAB5_PROJECT_MANAGEMENT.md` | Guide pas à pas - Project Management : suivi d'avancement et détection de dérives. |
+| `LAB6_AUDIT.md` | Guide pas à pas - Audit : assistant de contrôle et d'échantillonnage. |
+| `LAB7_FINANCE_TRESORERIE.md` | Guide pas à pas - Finance avancé : assistant de prévision de trésorerie. |
 
 ## Matériel à prévoir pour animer la formation
 
